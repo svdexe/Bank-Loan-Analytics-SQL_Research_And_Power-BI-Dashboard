@@ -1,0 +1,1 @@
+Comprehensive bank loan portfolio analysis using MySQL for data processing and Power BI for interactive dashboards. Tracks key lending metrics including loan performance, risk assessment, and borrower demographics with real-time KPI monitoring.
